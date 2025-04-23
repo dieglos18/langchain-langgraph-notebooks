@@ -2,14 +2,9 @@
 
 This repository contains simple, beginner-friendly notebooks that explain the key concepts of LangChain using Python and LangGraph.
 
-## Concepts Covered
+## Concepts Covered (22-04-2025)
 
 1. Hello World
-2. Chat Models / System Messages
-3. Prompt Templates
-4. Streaming Responses
-5. Output Parsers
-6. Runnable Protocol
 
 ## Getting Started
 
