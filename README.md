@@ -2,12 +2,16 @@
 
 This repository contains simple, beginner-friendly notebooks that explain the key concepts of LangChain using Python and LangGraph.
 
-## Concepts Covered
+# Concepts Covered
 
+### LangChain 
 1. Hello World
 2. Chat Models
 
-## Getting Started
+### LangGraph
+1. Human-in-the-loop
+
+# Getting Started
 
 1. Clone the repo
 2. Create a virtual environment
