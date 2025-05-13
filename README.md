@@ -4,8 +4,12 @@ This repository contains simple, beginner-friendly notebooks that explain the ke
 
 ## Concepts Covered
 
+### LangChain 
 1. Hello World
 2. Chat Models
+
+### LangGraph
+1. Human-in-the-loop
 
 ## Getting Started
 
