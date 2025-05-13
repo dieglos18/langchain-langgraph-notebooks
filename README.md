@@ -11,6 +11,9 @@ This repository contains simple, beginner-friendly notebooks that explain the ke
 ### LangGraph
 1. Human-in-the-loop
 
+### Test Projects
+1. Movie Reviews Classification
+
 ## Getting Started
 
 1. Clone the repo
