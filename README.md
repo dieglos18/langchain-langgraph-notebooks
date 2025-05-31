@@ -1,26 +1,14 @@
-# LangChain + LangGraph Concepts in Jupyter Notebooks
+# LangChain & LangGraph Concepts in Notebooks
 
-This repository contains simple, beginner-friendly notebooks that explain the key concepts of LangChain using Python and LangGraph.
+Welcome to this educational repository focused on **LangChain** and **LangGraph**. Here you'll find a collection of small, self-contained projects and concept demos implemented in **Jupyter Notebooks** (`.ipynb`), ideal for exploring how to build applications powered by **language models (LLMs)**.
 
-## Concepts Covered
+## 🔍 What's Inside?
 
-### LangChain 
-1. Hello World
-2. Chat Models
+This repo is structured as a series of notebooks, each covering a different concept or use case related to LangChain and LangGraph:
 
-### LangGraph
-1. Human-in-the-loop
+- **LangChain Basics**
+- **LangGraph Fundamentals**
+- **Small Projects**
 
-### Test Projects
-1. Movie Reviews Classification
+> All notebooks are designed to be beginner-friendly and ready to run with minimal setup.
 
-## Getting Started
-
-1. Clone the repo
-2. Create a virtual environment
-3. Run `pip install -r requirements.txt`
-4. Start Jupyter Notebook and explore the `notebooks/` folder
-
-## License
-
-MIT
